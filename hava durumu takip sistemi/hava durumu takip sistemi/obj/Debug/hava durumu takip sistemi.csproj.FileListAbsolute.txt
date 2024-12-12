@@ -1,0 +1,14 @@
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\hava durumu takip sistemi.exe.config
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\hava durumu takip sistemi.exe
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\hava durumu takip sistemi.pdb
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\Guna.UI2.dll
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava durumu takip sistemi.csproj.AssemblyReference.cache
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava_durumu_takip_sistemi.Properties.Resources.resources
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava durumu takip sistemi.csproj.GenerateResource.cache
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava durumu takip sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava dur.C9ABB884.Up2Date
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava durumu takip sistemi.exe
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava durumu takip sistemi.pdb
+C:\Users\Azt\source\repos\hava durumu takip sistemi\hava durumu takip sistemi\obj\Debug\hava_durumu_takip_sistemi.Form1.resources
